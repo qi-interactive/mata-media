@@ -22,6 +22,9 @@ php yii migrate/up --migrationPath=@vendor/mata/mata-media/migrations
 Changelog
 ---------
 
+## 1.0.4.3-alpha, April 1, 2017
+- Added the ability to overwrite the module
+
 ## 1.0.4.2-alpha, October 28, 2016
 
 - Added client validation for MandatoryMediaValidator
