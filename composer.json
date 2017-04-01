@@ -12,7 +12,7 @@
     },
     "autoload": {
         "psr-4": {
-            "mata\\media\\": ""
+            "mata\\media\\" : ["../../../frontend/modules/mata/mata-media", "../../../mata-cms/modules/mata/mata-media", ""]
         }
     },
     "extra": {
